@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Revalia&display=swap');
+body{
+    background: url("./images/pexels-mike-b-170811.jpg") no-repeat center center fixed;
+    background-size: cover;
+    
+    
+}
+ div{
+    background-color: lightblue;
+ }
+h1{
+    color: #05a081;
+    text-align: center;
+     width: 300px;
+     padding: 20px;
+     margin: 0 auto;
+     margin-top: 200px;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 3em;   
+}
